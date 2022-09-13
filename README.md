@@ -7,12 +7,14 @@ In this project you will be working with team members using Git and Github to de
 
 
 ## Project Requirements
-- Team: 3-4 members. 
+- Team: 3-5 members. 
 - Make a representation/slides for the project idea that has the following main points:
   - Title.
   - Problem. 
   - Solution you created.
   - Team members information/names.
+  - Full demo
+  - Business model if any
 - Update your README.md file to have the following:
   - The title of your project.
   - Description.
@@ -35,7 +37,7 @@ In this project you will be working with team members using Git and Github to de
 
 ### Back-End Requirment
 - At least 3 Controllers.
-- At least 2 Models.
+- At least 3 Models.
 - At least 15 Endpoints (Including CRUD endpoints).
 - At least 2 Types of users.
 - Database Connection.
