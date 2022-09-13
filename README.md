@@ -33,6 +33,7 @@ In this project you will be working with team members using Git and Github to de
 - At least 5 routes/Pages. 
 - Styling your project.
 - Connect to your Back-End using fetch.
+- Login and register routes
 - Deployment.
 
 ### Back-End Requirment
@@ -43,4 +44,6 @@ In this project you will be working with team members using Git and Github to de
 - Database Connection.
 - Make sure to use suitable HTTP status codes for your endpoints.
 - Using validation
+- Using advise
+- Using Spring security
 - Deployment.
