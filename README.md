@@ -32,7 +32,7 @@ In this project you will be working with team members using Git and Github to de
 - Use State and Component Lifecycle concepts.
 - At least 5 routes/Pages. 
 - Styling your project.
-- Connect to your Back-End using fetch.
+- Connect to your Back-End .
 - Login and register routes
 - Deployment.
 
